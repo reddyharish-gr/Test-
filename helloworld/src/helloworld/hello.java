@@ -15,6 +15,7 @@ public class hello {
 	public static void main(String[] args) {
 	
 	System.out.println("sample file");
+	System.out.Println("Eclispe to GITHUB Integration by cloning GIT HUB project");
 
 	}
 
